@@ -10,6 +10,8 @@ _Red LAB_ (_The LAB_) is an experimentation and exploration hub of [_RED_](https
 
 The most of our work is doing offline and now we're having a lack of work power, but we're aimed at our goals and we are moving towards them step by step, commit by commit. And sooner or later, _we will reach our goals._<br/><br/>
 
+For more information visit [_donation page of RED_](https://github.com/Red-company/Donation).<br/><br/>
+
 ## Donation status:
 
 If you like _Red_ projects and interested in their improvements you can help us.
